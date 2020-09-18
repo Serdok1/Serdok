@@ -2,7 +2,7 @@
 
 Tüm çözümler bizzat ben tarafından yapılmıştır ve bizzat ben tarafından açıklanmıştır `Egoistlik 100 :D``
 
-[Sitem]() ,eğer bakmak isterseniz.
+[Sitem](Serdok) ,eğer bakmak isterseniz.
 
 ## Çözümler
 
