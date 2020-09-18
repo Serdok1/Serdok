@@ -4,4 +4,4 @@
 
 ## Bilgi Paylaşımı
 
-[Tryhackme](serdok1.github.io/tryhackme) çözümleri
+[Tryhackme](TryHackMe) çözümleri
